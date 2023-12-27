@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web app Post API </title>
+</head>
+<body>
+    <h1>Web app, Post API - By vidyasagar</h1>
+    <h2>Developed based on IMBD dataset</h2>
+    <form method="post">
+        <label for="input_text">Enter text:</label>
+        <input type="text" id="input_text" name="input_text" required>
+        <button type="submit">Check</button>
+    </form>
+    {% if result %}
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>
