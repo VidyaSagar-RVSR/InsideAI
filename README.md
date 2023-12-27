@@ -1,4 +1,4 @@
-# InsideAI Assignment 1
+# InsideAIML Assignment 1
 
 The code procedure works like this,
 
