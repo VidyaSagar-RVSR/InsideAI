@@ -1,4 +1,4 @@
-# InsideAI
+# InsideAI Assignment 1
 
 The code procedure works like this,
 
