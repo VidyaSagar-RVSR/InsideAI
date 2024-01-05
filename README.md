@@ -1,4 +1,4 @@
-# InsideAIML Assignment 1
+# Named Entity Recognition Web App with Flask | NLP end-to-end
 
 The code procedure works like this,
 
